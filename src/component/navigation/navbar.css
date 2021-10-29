@@ -1,0 +1,18 @@
+.nav > .link {
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.5rem;
+  margin: 15px 6px;
+  font-weight: 500;
+  color: #061161;
+  
+}
+.nav{
+  text-align: center;
+  margin-bottom: 45px;
+}
+@media screen and (max-width:768px) {
+  .nav > .link{
+    font-size: 1.2rem;
+  }
+}

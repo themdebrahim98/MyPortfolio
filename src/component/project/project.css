@@ -1,0 +1,28 @@
+.project-wrapper section{
+  max-width: 60%;
+  margin: 0 auto;
+
+}
+
+.project-wrapper section h2{
+  margin: 0;
+  color: #061161;
+}
+.project-wrapper section p{
+  margin: 5px 0;
+}
+.project-wrapper section a {
+  text-decoration: none;
+  color: #061161;
+  margin: 45px;
+font-size: 1.3rem;
+  font-weight: 500;
+}
+/* 
+@media screen and (max-width:768px){
+  .project-wrapper section{
+    margin: 0 32px;
+  }
+  
+
+} */
