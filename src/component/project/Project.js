@@ -11,7 +11,7 @@ export default function Project() {
       <NavBar />
       <Home title='2' />
       <section>
-        <a href="https://datash-clone.herokuapp.com/"> <h2>Datash Clone</h2></a>
+        <a href="https://datash-clone2.herokuapp.com/"> <h2>Datash Clone</h2></a>
         <p>Send and receive text or file from one device to another through a browser(using Web Socket) </p>
         <a href=" https://temp-weather-erbrahim.herokuapp.com/"><h2>Whether Check</h2></a>        
         <p>You can Check Wheather in your Area</p>
