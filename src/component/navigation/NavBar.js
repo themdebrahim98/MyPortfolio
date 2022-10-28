@@ -14,7 +14,7 @@ export default function NavBar() {
       <Link className='link' title='About' to='/about'>About</Link>
       <Link className='link' to='/project' title="Project">Project</Link>
       <a className='link' href='https://mdebrahim98.github.io/My-website' title="Blog">Bog</a>
-      <a className='link' href='https://drive.google.com/file/d/1GY6xDihUbn8NzM5IHQB4gDSueWYDoqcD/view?usp=sharing' title="Resume">Resume</a>
+      <a className='link' href='https://drive.google.com/file/d/1GY6xDihUbn8NzM5IHQB4gDSueWYDoqcD/view' title="Resume">Resume</a>
       {/* <Link className='link' to='#' title="Cv">Cv</Link> */}
 
     </nav>
