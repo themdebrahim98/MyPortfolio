@@ -5,7 +5,7 @@ import {
   Route,
   Link
 } from "react-router-dom";
-import profile from '../img/ebrahim2.jpeg'
+import profile from '../img/ebrahim.jpeg'
 import './about.css'
 import NavBar from '../navigation/NavBar'
 import { AiOutlineMail } from 'react-icons/ai'

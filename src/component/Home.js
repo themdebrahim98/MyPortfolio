@@ -3,7 +3,7 @@ import { AiFillGithub, AiFillLinkedin, AiFillTwitterCircle, AiFillFacebook, AiFi
 import { Link } from 'react-router-dom';
 import CopyRight from './copyright/CopyRight';
 import './home.css'
-import profile from './img/ebrahim3.jpeg'
+import profile from './img/ebrahim.jpeg'
 import NavBar from './navigation/NavBar';
 
 export default function Home({title}) {
