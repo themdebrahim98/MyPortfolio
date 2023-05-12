@@ -16,12 +16,12 @@ export default function Home({title}) {
 					<h1 className='title'>Md Eabrahim</h1>
 					<h2 className="description">Enthusiast in Web Development</h2>
 					<div className="social-links">
+						<a className='link' target='_blank'  href="mailto:mdebrahim742148@gmail.com"><AiOutlineMail /></a>
 						<a className='link' target='_blank' href="https://github.com/mdebrahim98"><AiFillGithub /></a>
 						<a className='link' target='_blank' href="https://www.linkedin.com/in/mdebrahim98"><AiFillLinkedin /></a>
 						<a className='link' target='_blank' href="https://twitter.com/Md_Ebrahim98"><AiFillTwitterCircle /></a>
 						<a className='link' target='_blank' href="https://www.facebook.com/ebrahim742148"><AiFillFacebook /></a>
 						<a className='link' target='_blank' href="https://www.instagram.com/md_ebrahim98"><AiFillInstagram /></a>
-						<a className='link' target='_blank'  href="mailto:mdebrahim742148@gmail.com"><AiOutlineMail /></a>
 
 					</div>
 				</header>
