@@ -23,7 +23,7 @@ export default function Project() {
         <p>A fun tic-tac-toe game which allows you to play it with an AI bot</p>
         <a href="https://github.com/mdebrahim98?tab=repositories"><p>And Many More....</p></a>
         
-        <CopyRight title='Md Ebrahim © 2021' />
+        <CopyRight title=`Md Ebrahim © ${new Date().getFullYear()}` />
       </section>
 
 
