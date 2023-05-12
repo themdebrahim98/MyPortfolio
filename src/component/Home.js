@@ -30,7 +30,7 @@ export default function Home({title}) {
 
 
 			</div>
-			<CopyRight title={title?null: 'Md Ebrahim © 2023'}/>
+			<CopyRight title={title?null: `Md Ebrahim © ${new Date().getFullYear()}`}/>
 		
 
 
