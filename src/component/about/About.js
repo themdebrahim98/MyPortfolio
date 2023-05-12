@@ -51,7 +51,7 @@ export default function About() {
 
 
         </section>
-        <CopyRight title=`Md Ebrahim © ${new Date().getFullYear()}` />
+        <CopyRight title={`Md Ebrahim © ${new Date().getFullYear()}`} />
       </div>
 
 
